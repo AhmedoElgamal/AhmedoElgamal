@@ -9,4 +9,6 @@
 </h1>
 </div>
 
-I am a Frontend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+<div align="center">
+I am a Frontend Software Developer and Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+</div>
