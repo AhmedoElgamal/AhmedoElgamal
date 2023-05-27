@@ -10,5 +10,13 @@
 </div>
 
 <div align="center">
-I am a Frontend Software Developer and Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I am a Frontend Software Developer and Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt
+</div>
+
+<div align="center">
+My favorite programming language is C++ as I work with it most of the time to make games in Unreal Engine.
+I am also familiar with [Java, C, C#] as I worked with them on some projects.
+  
+My favorite technology to develop mobile applications is Flutter which uses Dart as programming language.
+I am also familiar with React js and CSS as I made web applications using them.
 </div>
