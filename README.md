@@ -10,7 +10,7 @@
 </div>
 
 <div id="body" align="center">
-I am a Frontend Software Developer and Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt<Br/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Frontend Software Developer and Game Developer from Egypt <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><Br/>
 </div>
 <Br/><Br/>
 <div align="center">
