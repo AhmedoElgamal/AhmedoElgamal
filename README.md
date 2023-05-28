@@ -23,7 +23,7 @@ I am also familiar with React js and CSS as I made web applications using them.
 
 <Br/><Br/>
 
-<div id="footer">
+<div id="footer" align="center">
 :hammer_and_wrench:Languages and Tools:<Br/><Br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
