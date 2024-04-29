@@ -14,11 +14,9 @@
 </div>
 <Br/><Br/>
 <div align="center">
-My favorite programming language is C++ as I work with it most of the time to make games in Unreal Engine.<Br/>
-I am also familiar with [Java, C, C#] as I worked with them on some projects.
+My favorite programming language is C++ as it's the language for making games in Unreal Engine.<Br/>
 <Br/><Br/>
-My favorite technology to develop mobile applications is Flutter which uses Dart as programming language.<Br/>
-I am also familiar with React js and CSS as I made web applications using them.
+Flutter and React are my favorite to to develop cross-platform mobile applications.<Br/>
 </div>
 
 <Br/><Br/>
