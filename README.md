@@ -16,7 +16,7 @@
 <div align="center">
 My favorite programming language is C++ as it's the language for making games in Unreal Engine.<Br/>
 <Br/><Br/>
-Flutter and React are my favorite to to develop cross-platform mobile applications.<Br/>
+Flutter and React are my favorites to to develop cross-platform mobile applications.<Br/>
 </div>
 
 <Br/><Br/>
